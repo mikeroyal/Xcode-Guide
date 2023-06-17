@@ -4,10 +4,6 @@
   Xcode Guide
 </h1>
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/45159366/141201801-d6702ffe-00c2-4b6f-bf62-d699d75fd457.png">
-<br />
-</p>
 
  <a href="https://github.com/mikeroyal?tab=followers">
          <img alt="followers" title="Follow me for Updates" src="https://custom-icon-badges.demolab.com/github/followers/mikeroyal?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> 	
@@ -15,6 +11,11 @@
 #### A guide on setting up Xcode with all the essential Applications, Tools, and Frameworks to make your development experience with Xcode great!
 
 **Note: You can easily convert this markdown file to a PDF using this handy online tool [AnyConv](https://anyconv.com/md-to-pdf-converter/).**
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/141201801-d6702ffe-00c2-4b6f-bf62-d699d75fd457.png">
+<br />
+</p>
 
 # Table of Contents
 
